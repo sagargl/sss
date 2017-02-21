@@ -1,0 +1,54 @@
+login logout
+comment screenplay
+
+For deleting the icon, upon long press we need to have the CROSS mark  (IOS /ANDROID)
+
+Issue to raise: task complted which is not reflecting in task page : kalyug scane 16 1561 in android
+consolditated completed scene is not reflecting in scene list page
+
+2536
+2538
+2550
+2551
+2554
+2560
+2561
+2562
+2563
+2564
+2569-not implementd
+2570- not implementd
+2571-not implementd
+2575
+2576
+2577
+2578
+2692
+2697
+2698
+2699
+2700
+
+yeh rista 2000 episode 3  2150
+
+Comment and chat window UI:
+1. para- 1 is displaying in ios
+
+2. Type comment in text box as "Add new" dont select any user and tap on send button-> it is turning into mike button only
+
+3. 
+
+2703
+2705
+2581-not implemented
+2582
+2585
+2542-updated
+
+"Issue: Already added user is getting enabled while searching in the contact list window
+
+Steps:
+1.Tap on context in the screenplay page
+2. Add contacts and tap on save button
+3. Then tap on '+' icon 
+4. In the search tab, search the already added user"
